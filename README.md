@@ -2,7 +2,7 @@
 
 ## Exercícios resolvidos em Java para a disciplina de Programação III 
 
-1. Conjunto: programas sequenciais com entrada, cálculo e saída [COMPLETO]
+1. [Conjunto: programas sequenciais com entrada, cálculo e saída [COMPLETO]](/conjunto-01)
 
 2. Conjunto: programas com estruturas condicionais [EM PROGRESSO]
 
