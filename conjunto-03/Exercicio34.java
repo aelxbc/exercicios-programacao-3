@@ -10,6 +10,7 @@ import java.util.Random;
         Random gerador = new Random();
 
         for(int i = 0; i < 50; i++) {
+            
             int n = gerador.nextInt(100) + 1;
             System.out.println("Número da sorte: " + n);
         }
